@@ -17,20 +17,6 @@ img: /assets/img/2.jpg
 
 **ABSTRACT**
 
-Vehicle number plate recognition is one of the
-most interesting and challenging research topic from past few
-years. It is shown that the number plates are different shape
-and size and also have different color in different countries. In
-this project we developed an android application for localization
-of number plates of the vehicles and segmented the numbers
-as to identify each number separately. This paper presents an
-approach based on simple and efficient morphological operation
-and sobel edge detection method. We also presents a deep
-learning based approach to segmented all the letters and
-numbers used in the number plate. After reducing noise from
-the input image we try to enhance the contrast of the presents
-a simple approach to segmented all the letters and numbers
-used in the number plate.
+Vehicle number plate recognition is one of the most interesting and challenging research topic from past few years. It is shown that the number plates are different shape and size and also have different color in different countries. In this project we developed an android application for localization of number plates of the vehicles and segmented the numbers as to identify each number separately. This paper presents an approach based on simple and efficient morphological operation and sobel edge detection method. We also presents a deep learning based approach to segmented all the letters and numbers used in the number plate. After reducing noise from the input image we try to enhance the contrast of the presents a simple approach to segmented all the letters and numbers used in the number plate.
 
-[Report](http://pariyani37.github.io/assets/pdf/NumberPlateRecognition.pdf).
-
+[Report](https://github.com/pradeeptadas/Number-Plate-Recognition-Android-Application/blob/edcfab5c5ea9cc84afe6f008e7dfe61423e363cd/NumberPlateRecognition.pdf).
