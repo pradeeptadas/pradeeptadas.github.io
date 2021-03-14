@@ -15,7 +15,7 @@ news: true
 social: true
 ---
 
-<p>Pradeepta is currently pursuing Financial Engineering at Haas School of business, UC Berkeley. Pradeepta received his bachelor’s degree in electrical engineering from the Indian Institute of Technology in Kharagpur.</p>
+<p>Pradeepta is currently pursuing Financial Engineering at Haas School of business, UC Berkeley. He received his bachelor’s degree in electrical engineering from the Indian Institute of Technology in Kharagpur.</p>
 
 <p>He has 5years of work experience at JPMorgan as a quant for the volatility desks in the equity derivatives. He has worked on a range of projects in derivatives and volatility structured product space including exciting Deep Headging research project.</p>
 
